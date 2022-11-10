@@ -1,1 +1,1 @@
-web: gunicorn yt_dlp_server.app:app --log-file -
+web: gunicorn yt-dlp-server.app:app --log-file -
